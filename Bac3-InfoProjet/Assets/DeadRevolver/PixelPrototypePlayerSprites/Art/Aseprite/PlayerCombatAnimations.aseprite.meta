@@ -1,0 +1,3611 @@
+fileFormatVersion: 2
+guid: a8ca2b15dde68d94e8ffe4a64c3f2131
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    mosaicPadding: 4
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: PlayerCombatAnimations_Frame_0
+    originalName: 
+    pivot: {x: 0.59259254, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 339
+      width: 27
+      height: 45
+    spriteID: e9e21ffcd9211d2468cef85b4ee6ead1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 339}
+  - name: PlayerCombatAnimations_Frame_1
+    originalName: 
+    pivot: {x: 0.59999996, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 48
+      y: 859
+      width: 25
+      height: 46
+    spriteID: 42caee6914902304db8cfc53aadd121d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 48, y: 859}
+  - name: PlayerCombatAnimations_Frame_2
+    originalName: 
+    pivot: {x: 0.359375, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 69
+      width: 64
+      height: 52
+    spriteID: cd029e3ccfe8e7645bbce917512cdae0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 69}
+  - name: PlayerCombatAnimations_Frame_3
+    originalName: 
+    pivot: {x: 0.5625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 883
+      width: 32
+      height: 33
+    spriteID: 7408f192cfe7e8d4b84928f5c121fbbe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 883}
+  - name: PlayerCombatAnimations_Frame_4
+    originalName: 
+    pivot: {x: 0.34615386, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 277
+      width: 26
+      height: 34
+    spriteID: 84f53d864113d0544833975df92ac6a0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 277}
+  - name: PlayerCombatAnimations_Frame_5
+    originalName: 
+    pivot: {x: 0.24137929, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 441
+      width: 29
+      height: 34
+    spriteID: 740ec87be8019dd45976fa53ac84cea0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 441}
+  - name: PlayerCombatAnimations_Frame_6
+    originalName: 
+    pivot: {x: 0.15789473, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 50
+      width: 19
+      height: 37
+    spriteID: ee02c840a440a7c45847b8859a254938
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 279, y: 50}
+  - name: PlayerCombatAnimations_Frame_7
+    originalName: 
+    pivot: {x: 0.15, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 896
+      width: 20
+      height: 39
+    spriteID: 05b1c6d0079905a4d91be9136bc49688
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 896}
+  - name: PlayerCombatAnimations_Frame_8
+    originalName: 
+    pivot: {x: 0.6666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 253
+      y: 367
+      width: 18
+      height: 41
+    spriteID: 28fbb02fcf8832a4ebbd332ddd807df5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 253, y: 367}
+  - name: PlayerCombatAnimations_Frame_9
+    originalName: 
+    pivot: {x: 0.7916666, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 280
+      width: 24
+      height: 51
+    spriteID: 13f1287a3af89a54a8a4ab8898060a81
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 280}
+  - name: PlayerCombatAnimations_Frame_10
+    originalName: 
+    pivot: {x: 0.82758623, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 433
+      width: 29
+      height: 48
+    spriteID: dc54b63e6c438284683da1361e87ef22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 433}
+  - name: PlayerCombatAnimations_Frame_11
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 70
+      height: 57
+    spriteID: e151bbd282976a24c8f35e24f5d03248
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: PlayerCombatAnimations_Frame_12
+    originalName: 
+    pivot: {x: 0.28571427, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 473
+      width: 35
+      height: 57
+    spriteID: b242e585d9ce1f74d812e3cc81927758
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 473}
+  - name: PlayerCombatAnimations_Frame_13
+    originalName: 
+    pivot: {x: 0.45454544, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 963
+      width: 22
+      height: 56
+    spriteID: d7232e6cabdd469488be2112a1cb2f00
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 963}
+  - name: PlayerCombatAnimations_Frame_14
+    originalName: 
+    pivot: {x: 0.30303028, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 576
+      width: 33
+      height: 35
+    spriteID: d3792365cdcaa124bbc4df7ce70b54c6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 576}
+  - name: PlayerCombatAnimations_Frame_15
+    originalName: 
+    pivot: {x: 0.19999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 817
+      width: 50
+      height: 34
+    spriteID: 897383661176a684992409d3793fcf2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 817}
+  - name: PlayerCombatAnimations_Frame_16
+    originalName: 
+    pivot: {x: 0.22448982, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 195
+      width: 49
+      height: 61
+    spriteID: 8eb4f2708e3fec6448e7199cf72cb6ce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 195}
+  - name: PlayerCombatAnimations_Frame_17
+    originalName: 
+    pivot: {x: 0.5555556, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 149
+      width: 27
+      height: 59
+    spriteID: 8aece0e7d1830f943879fd053271c03a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 149}
+  - name: PlayerCombatAnimations_Frame_18
+    originalName: 
+    pivot: {x: 0.6, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 216
+      width: 30
+      height: 53
+    spriteID: 4476ece0082d2c54aa90aabe35deaebe
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 216}
+  - name: PlayerCombatAnimations_Frame_19
+    originalName: 
+    pivot: {x: 0.042553212, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 4
+      width: 47
+      height: 31
+    spriteID: e59e8554a519eb246be9303384825862
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 4}
+  - name: PlayerCombatAnimations_Frame_20
+    originalName: 
+    pivot: {x: 0.06818182, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 132
+      width: 44
+      height: 32
+    spriteID: e499a5e2b1403c748a4579c6f12b0a17
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 132}
+  - name: PlayerCombatAnimations_Frame_21
+    originalName: 
+    pivot: {x: 0.08108108, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 440
+      width: 37
+      height: 32
+    spriteID: e4b707b68b3370246a5b5ec60eb7ddce
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 440}
+  - name: PlayerCombatAnimations_Frame_22
+    originalName: 
+    pivot: {x: 0.14285718, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 795
+      width: 35
+      height: 32
+    spriteID: 5eae3c7dbef58304d8b93a85a13bf5cc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 795}
+  - name: PlayerCombatAnimations_Frame_23
+    originalName: 
+    pivot: {x: 0.58064514, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 663
+      width: 31
+      height: 37
+    spriteID: 704b12b665c1163408180f7c7d2d535f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 663}
+  - name: PlayerCombatAnimations_Frame_24
+    originalName: 
+    pivot: {x: 0.44444445, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 708
+      width: 27
+      height: 42
+    spriteID: 58da9c7b29d396647ac4eb7bd81efa94
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 708}
+  - name: PlayerCombatAnimations_Frame_25
+    originalName: 
+    pivot: {x: 0.24242428, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 977
+      width: 33
+      height: 38
+    spriteID: 3bf8e3afa3ef3a84b8b6690add2fd5f6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 977}
+  - name: PlayerCombatAnimations_Frame_26
+    originalName: 
+    pivot: {x: 0.47142857, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 328
+      width: 70
+      height: 35
+    spriteID: 7323cc6afd350884a80dcb88115f1ad6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 328}
+  - name: PlayerCombatAnimations_Frame_27
+    originalName: 
+    pivot: {x: 0.67391306, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 4
+      width: 46
+      height: 34
+    spriteID: 735098c7c7d89934196535ee71ff742f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 4}
+  - name: PlayerCombatAnimations_Frame_28
+    originalName: 
+    pivot: {x: 0.47727275, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 46
+      width: 44
+      height: 35
+    spriteID: 85003e7b1d9a2474f813b9aca21435f0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 46}
+  - name: PlayerCombatAnimations_Frame_29
+    originalName: 
+    pivot: {x: 0.30769232, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 277
+      width: 39
+      height: 37
+    spriteID: 0d054f267ff113547960a133628cf97f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 277}
+  - name: PlayerCombatAnimations_Frame_30
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 806
+      width: 25
+      height: 37
+    spriteID: 2728cd13ebcf96943a20072bb4b0ad1a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 806}
+  - name: PlayerCombatAnimations_Frame_31
+    originalName: 
+    pivot: {x: -0.041666746, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 525
+      width: 24
+      height: 40
+    spriteID: d537f5ff9e7e1ec4c8894ed2fdfcac78
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 525}
+  - name: PlayerCombatAnimations_Frame_32
+    originalName: 
+    pivot: {x: 0.34999996, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 813
+      width: 20
+      height: 40
+    spriteID: 644b7d022caaa264194dd6590299d473
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 813}
+  - name: PlayerCombatAnimations_Frame_33
+    originalName: 
+    pivot: {x: 0.3333333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 367
+      width: 21
+      height: 41
+    spriteID: 59ff18c3cd26bc449b31e453196c6850
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 367}
+  - name: PlayerCombatAnimations_Frame_34
+    originalName: 
+    pivot: {x: 0.31818178, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 52
+      y: 914
+      width: 22
+      height: 41
+    spriteID: 44207720d3a1fb64a8cf1ab872909946
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 52, y: 914}
+  - name: PlayerCombatAnimations_Frame_35
+    originalName: 
+    pivot: {x: 0.29166663, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 573
+      width: 24
+      height: 40
+    spriteID: f3dc12a96828a77439680e4644230c2b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 573}
+  - name: PlayerCombatAnimations_Frame_36
+    originalName: 
+    pivot: {x: 0.45454544, y: -0.025641028}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 416
+      width: 22
+      height: 39
+    spriteID: a77bbeeadf03f594ab3bf273f6c2b11c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 416}
+  - name: PlayerCombatAnimations_Frame_37
+    originalName: 
+    pivot: {x: 0.42105266, y: -0.05263158}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 252
+      y: 813
+      width: 19
+      height: 38
+    spriteID: 63cb2a2ec4f16c248bbbff331e3260ba
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 252, y: 813}
+  - name: PlayerCombatAnimations_Frame_38
+    originalName: 
+    pivot: {x: 0.586207, y: -0.11764706}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 483
+      width: 29
+      height: 34
+    spriteID: 3201848cb9f0ad945b706a71387b7aa5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 483}
+  - name: PlayerCombatAnimations_Frame_39
+    originalName: 
+    pivot: {x: 0.4871795, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 53
+      width: 39
+      height: 42
+    spriteID: 07a06029fde63f945bc75f995f719425
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 53}
+  - name: PlayerCombatAnimations_Frame_40
+    originalName: 
+    pivot: {x: 0.51282054, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 758
+      width: 39
+      height: 29
+    spriteID: a0f15f9dfd6674842ab0419ee822d700
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 758}
+  - name: PlayerCombatAnimations_Frame_41
+    originalName: 
+    pivot: {x: 0.51282054, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 602
+      width: 39
+      height: 21
+    spriteID: 028082410ab928243a4b809fba4079de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 602}
+  - name: PlayerCombatAnimations_Frame_42
+    originalName: 
+    pivot: {x: 0.40624997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 988
+      width: 32
+      height: 22
+    spriteID: 0ddcda49b7345a7439694ff644c60e40
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 988}
+  - name: PlayerCombatAnimations_Frame_43
+    originalName: 
+    pivot: {x: 0.34482756, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 861
+      width: 29
+      height: 27
+    spriteID: 1d7f64ef5336a564da6cc0c277a2b8f1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 861}
+  - name: PlayerCombatAnimations_Frame_44
+    originalName: 
+    pivot: {x: 0.29629633, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 669
+      width: 27
+      height: 35
+    spriteID: a0838cfd4bc7d084bbbda6f630f1a4ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 669}
+  - name: PlayerCombatAnimations_Frame_45
+    originalName: 
+    pivot: {x: 0.3666667, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 392
+      width: 30
+      height: 40
+    spriteID: 985e0270a73daa246888cdeac74ada47
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 392}
+  - name: PlayerCombatAnimations_Frame_46
+    originalName: 
+    pivot: {x: 0.65625, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 619
+      width: 32
+      height: 36
+    spriteID: a3f801ef4903c89439f360331d293a5a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 619}
+  - name: PlayerCombatAnimations_Frame_47
+    originalName: 
+    pivot: {x: 0.40000004, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 420
+      width: 45
+      height: 45
+    spriteID: 785479f304b0e8440b8852580d42bf6d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 420}
+  - name: PlayerCombatAnimations_Frame_48
+    originalName: 
+    pivot: {x: 0.40909094, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 538
+      width: 44
+      height: 42
+    spriteID: 5b63f214060a528418803e2e91839b80
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 538}
+  - name: PlayerCombatAnimations_Frame_49
+    originalName: 
+    pivot: {x: 0.40909094, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 588
+      width: 44
+      height: 42
+    spriteID: dc9ae1bac81ac0044b9239be1e271529
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 588}
+  - name: PlayerCombatAnimations_Frame_50
+    originalName: 
+    pivot: {x: 0.41860467, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 638
+      width: 43
+      height: 42
+    spriteID: af13920a6283f144bb75ec761553ab6a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 638}
+  - name: PlayerCombatAnimations_Frame_51
+    originalName: 
+    pivot: {x: 0.5, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 103
+      width: 42
+      height: 38
+    spriteID: f6761d05ddaca0a4a95bea3c74b0b672
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 103}
+  - name: PlayerCombatAnimations_Frame_52
+    originalName: 
+    pivot: {x: 0.57575756, y: -0.024999999}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 129
+      y: 53
+      width: 33
+      height: 40
+    spriteID: 8337509ece24b2c40ae80dd1e76e5c25
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 129, y: 53}
+  - name: PlayerCombatAnimations_Frame_53
+    originalName: 
+    pivot: {x: 0.51515156, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 590
+      width: 33
+      height: 40
+    spriteID: b1c9c7e4fccbdc04d86de27bc3ad145f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 590}
+  - name: PlayerCombatAnimations_Frame_54
+    originalName: 
+    pivot: {x: 0.5238096, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 631
+      width: 21
+      height: 39
+    spriteID: 6aebf911a8145d540ba35565cedcea09
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 631}
+  - name: PlayerCombatAnimations_Frame_55
+    originalName: 
+    pivot: {x: 0.46153846, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 924
+      width: 26
+      height: 39
+    spriteID: 36536d944ba2584449be8f4785301230
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 924}
+  - name: PlayerCombatAnimations_Frame_56
+    originalName: 
+    pivot: {x: 0.27272728, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 463
+      width: 22
+      height: 39
+    spriteID: 077a19e11f3c7d74f844e29e0816bb56
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 463}
+  - name: PlayerCombatAnimations_Frame_57
+    originalName: 
+    pivot: {x: 0.46428567, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 150
+      width: 28
+      height: 36
+    spriteID: f7538aeaf20c5ac4f84958509b1f07b7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 150}
+  - name: PlayerCombatAnimations_Frame_58
+    originalName: 
+    pivot: {x: 0.46, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 688
+      width: 50
+      height: 35
+    spriteID: 954092fb3069e174e8b35e88c1dc1918
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 688}
+  - name: PlayerCombatAnimations_Frame_59
+    originalName: 
+    pivot: {x: 0.43999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 731
+      width: 50
+      height: 35
+    spriteID: 00aa1292d975ad64f8d260923ea54bd9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 731}
+  - name: PlayerCombatAnimations_Frame_60
+    originalName: 
+    pivot: {x: 0.46, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 774
+      width: 50
+      height: 35
+    spriteID: 936cc8250ed499040a62e0460232b8b9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 774}
+  - name: PlayerCombatAnimations_Frame_61
+    originalName: 
+    pivot: {x: 0.43478256, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 770
+      width: 23
+      height: 35
+    spriteID: 48af8f77adafb8b4298fd9f1cbf12815
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 770}
+  - name: PlayerCombatAnimations_Frame_62
+    originalName: 
+    pivot: {x: 0.3333334, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 230
+      width: 15
+      height: 39
+    spriteID: 7126d666d20c68f488a74d272657f9be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 230}
+  - name: PlayerCombatAnimations_Frame_63
+    originalName: 
+    pivot: {x: 0.3333333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 678
+      width: 21
+      height: 39
+    spriteID: b26a633520d5cac41905c374dcf3b9c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 678}
+  - name: PlayerCombatAnimations_Frame_64
+    originalName: 
+    pivot: {x: 0.5263157, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 55
+      y: 638
+      width: 19
+      height: 41
+    spriteID: 30f1fa0550378b64f91a432d89a98a83
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 55, y: 638}
+  - name: PlayerCombatAnimations_Frame_65
+    originalName: 
+    pivot: {x: 0.45454544, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 319
+      width: 22
+      height: 40
+    spriteID: c630f9b821637b94e9a30c45bb0f8131
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 319}
+  - name: PlayerCombatAnimations_Frame_66
+    originalName: 
+    pivot: {x: 0.4528302, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 129
+      width: 53
+      height: 58
+    spriteID: 07d37afa5006d634b86fc16635853832
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 129}
+  - name: PlayerCombatAnimations_Frame_67
+    originalName: 
+    pivot: {x: 0.27272728, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 264
+      width: 44
+      height: 56
+    spriteID: b335ddc9fe13fed4384d122b57af1ff1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 264}
+  - name: PlayerCombatAnimations_Frame_68
+    originalName: 
+    pivot: {x: 0.2333333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 489
+      width: 30
+      height: 46
+    spriteID: 4b52f10cacb03a54e9724c8b42b47a38
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 489}
+  - name: PlayerCombatAnimations_Frame_69
+    originalName: 
+    pivot: {x: 0.1764706, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 254
+      y: 725
+      width: 17
+      height: 35
+    spriteID: 1c5ba48467c49d549bf074aa6ac1b971
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 254, y: 725}
+  - name: PlayerCombatAnimations_Frame_70
+    originalName: 
+    pivot: {x: 0.3, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 138
+      width: 20
+      height: 33
+    spriteID: 045761e7ed4a9bf4b89c1f8dc744cd24
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 279, y: 138}
+  - name: PlayerCombatAnimations_Frame_71
+    originalName: 
+    pivot: {x: 0.49999997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 187
+      width: 26
+      height: 35
+    spriteID: bdf70711c72fb604f9a5be3146182da1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 187}
+  - name: PlayerCombatAnimations_Frame_72
+    originalName: 
+    pivot: {x: 0.53846157, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 971
+      width: 26
+      height: 39
+    spriteID: bed33e977b2bfbe40ba6c3a6c40067a4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 971}
+  - name: PlayerCombatAnimations_Frame_73
+    originalName: 
+    pivot: {x: 0.55172414, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 480
+      width: 29
+      height: 40
+    spriteID: 4543ad4bc65f9e645863c8e49e8ba0db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 480}
+  - name: PlayerCombatAnimations_Frame_74
+    originalName: 
+    pivot: {x: 0.22727272, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 89
+      width: 44
+      height: 35
+    spriteID: 4e236670ff14ee04cad3bc53f682948e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 89}
+  - name: PlayerCombatAnimations_Frame_75
+    originalName: 
+    pivot: {x: 0.3636364, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 725
+      width: 22
+      height: 37
+    spriteID: 077e7eda05b37994e946af66193631e6
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 725}
+  - name: PlayerCombatAnimations_Frame_76
+    originalName: 
+    pivot: {x: 0.3333333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 943
+      width: 21
+      height: 37
+    spriteID: 0f7903e9fe52fc149a6751502130b4be
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 943}
+  - name: PlayerCombatAnimations_Frame_77
+    originalName: 
+    pivot: {x: 0.3, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 4
+      width: 20
+      height: 38
+    spriteID: 59e7a65e6096afa45b2b50be0377b24f
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 279, y: 4}
+  - name: PlayerCombatAnimations_Frame_78
+    originalName: 
+    pivot: {x: 0.6538462, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 103
+      width: 26
+      height: 39
+    spriteID: a68a7e078d6525d469144dd795dbbe12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 103}
+  - name: PlayerCombatAnimations_Frame_79
+    originalName: 
+    pivot: {x: 0.33333337, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 638
+      width: 33
+      height: 40
+    spriteID: b4a6432b45974404db648c5ba36dd102
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 638}
+  - name: PlayerCombatAnimations_Frame_80
+    originalName: 
+    pivot: {x: 0.32352945, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 543
+      width: 34
+      height: 39
+    spriteID: 4f694881ad1f53749ad85d7828797edf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 543}
+  - name: PlayerCombatAnimations_Frame_81
+    originalName: 
+    pivot: {x: 0.5789474, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 279
+      y: 95
+      width: 19
+      height: 35
+    spriteID: eeed8228374a38b42a24ca716627b868
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 279, y: 95}
+  - name: PlayerCombatAnimations_Frame_82
+    originalName: 
+    pivot: {x: 0.7826087, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 851
+      width: 23
+      height: 40
+    spriteID: 61c3389db1c30cd438571f72ccf1bc20
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 851}
+  - name: PlayerCombatAnimations_Frame_83
+    originalName: 
+    pivot: {x: 0.7619048, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 386
+      width: 21
+      height: 47
+    spriteID: cb8a62b840f3e33438f06266b5a5ebb2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 386}
+  - name: PlayerCombatAnimations_Frame_84
+    originalName: 
+    pivot: {x: 0.47222227, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 859
+      width: 36
+      height: 47
+    spriteID: 276dda268a56185489e662d83da49fd2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 859}
+  - name: PlayerCombatAnimations_Frame_85
+    originalName: 
+    pivot: {x: 0.4, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 378
+      width: 30
+      height: 47
+    spriteID: 6edff6bd1e4935d47b7ea650ffac5892
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 378}
+  - name: PlayerCombatAnimations_Frame_86
+    originalName: 
+    pivot: {x: 0.4, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 322
+      width: 30
+      height: 48
+    spriteID: b45380cfe0c273b4ab79458ca19ea515
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 322}
+  - name: PlayerCombatAnimations_Frame_87
+    originalName: 
+    pivot: {x: 0.41666663, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 621
+      width: 24
+      height: 40
+    spriteID: 247c0e47cbb27f947b1d8dd69cdd9193
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 621}
+  - name: PlayerCombatAnimations_Frame_88
+    originalName: 
+    pivot: {x: 0.4444445, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 56
+      y: 538
+      width: 18
+      height: 40
+    spriteID: ddb1ad74294f3084bbc7b6ebad35c3cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 56, y: 538}
+  - name: PlayerCombatAnimations_Frame_89
+    originalName: 
+    pivot: {x: 0.27999994, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 194
+      width: 25
+      height: 40
+    spriteID: f8e359d5f6f76464db34f1eb68a2aaa8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 194}
+  - name: PlayerCombatAnimations_Frame_90
+    originalName: 
+    pivot: {x: 0.49999994, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 43
+      width: 14
+      height: 40
+    spriteID: 550e442254b2e3c44963e4a62785f37c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 43}
+  - name: PlayerCombatAnimations_Frame_91
+    originalName: 
+    pivot: {x: 0.18181814, y: -3.2857141}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1012
+      width: 22
+      height: 7
+    spriteID: 65777a9d2b2e319469953ecf0ca84cb7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 1012}
+  - name: PlayerCombatAnimations_Frame_92
+    originalName: 
+    pivot: {x: 0.27999994, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 242
+      width: 25
+      height: 40
+    spriteID: f98321fc5b3cb7c40b1de024a83cf1a7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 242}
+  - name: PlayerCombatAnimations_Frame_93
+    originalName: 
+    pivot: {x: 0.39130434, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 899
+      width: 23
+      height: 40
+    spriteID: 612129f963bbade4387732de24d46b14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 899}
+  - name: PlayerCombatAnimations_Frame_94
+    originalName: 
+    pivot: {x: 0.5789474, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 252
+      y: 896
+      width: 19
+      height: 39
+    spriteID: b979073b9af205741a9e03f79eb86b8b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 252, y: 896}
+  - name: PlayerCombatAnimations_Frame_95
+    originalName: 
+    pivot: {x: 0.50000006, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 510
+      width: 22
+      height: 39
+    spriteID: a8d7d3517f1ce664d9cbdaa507bc1bca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 510}
+  - name: PlayerCombatAnimations_Frame_96
+    originalName: 
+    pivot: {x: 0.29166663, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 712
+      width: 24
+      height: 39
+    spriteID: 8f001294c8025cd4db50b8ff8b67f529
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 712}
+  - name: PlayerCombatAnimations_Frame_97
+    originalName: 
+    pivot: {x: 0.27999994, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 290
+      width: 25
+      height: 40
+    spriteID: c1de84e5380b3d74c9efae28cdfc5f12
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 290}
+  - name: PlayerCombatAnimations_Frame_98
+    originalName: 
+    pivot: {x: 0.30434778, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 947
+      width: 23
+      height: 40
+    spriteID: 231c1de10b5f42c4b83157d2ee73f91b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 947}
+  - name: PlayerCombatAnimations_Frame_99
+    originalName: 
+    pivot: {x: 0.30434778, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 43
+      width: 23
+      height: 40
+    spriteID: 1a9e8020a3e183248aff967e100cfdbf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 43}
+  - name: PlayerCombatAnimations_Frame_100
+    originalName: 
+    pivot: {x: 0.30434778, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 91
+      width: 23
+      height: 40
+    spriteID: 73fd55d8de5a0fb4a9b151d3307867c2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 91}
+  - name: PlayerCombatAnimations_Frame_101
+    originalName: 
+    pivot: {x: 0.30434778, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 139
+      width: 23
+      height: 40
+    spriteID: 4d5774177f334654287d47bbf0590064
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 139}
+  - name: PlayerCombatAnimations_Frame_102
+    originalName: 
+    pivot: {x: 0.29166663, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 759
+      width: 24
+      height: 39
+    spriteID: fa57e64214e606f43938a2d5fd47b634
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 759}
+  - name: PlayerCombatAnimations_Frame_103
+    originalName: 
+    pivot: {x: 0.30434778, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 557
+      width: 23
+      height: 37
+    spriteID: 902da3b008311e74083a0903e80bca62
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 557}
+  - name: PlayerCombatAnimations_Frame_104
+    originalName: 
+    pivot: {x: 0.30434778, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 224
+      y: 230
+      width: 23
+      height: 39
+    spriteID: 3053553b80902d546b5bb487607725b3
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 224, y: 230}
+  - name: PlayerCombatAnimations_Frame_105
+    originalName: 
+    pivot: {x: 0.27999994, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 338
+      width: 25
+      height: 40
+    spriteID: 7fd13f8e3315339468f134aa791a888e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 338}
+  - name: PlayerCombatAnimations_Frame_106
+    originalName: 
+    pivot: {x: 0.49999994, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 91
+      width: 14
+      height: 40
+    spriteID: f5ca8c0740efb484fbfde6727879fccd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 91}
+  - name: PlayerCombatAnimations_Frame_107
+    originalName: 
+    pivot: {x: 0.35483873, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 232
+      width: 31
+      height: 40
+    spriteID: b133c0712ea2aae48b76ad9526160ff4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 232}
+  - name: PlayerCombatAnimations_Frame_108
+    originalName: 
+    pivot: {x: 0.3333333, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 830
+      width: 30
+      height: 43
+    spriteID: 0e75ed31e2c11394da451e4f194dcadb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 830}
+  - name: PlayerCombatAnimations_Frame_109
+    originalName: 
+    pivot: {x: 0.40740743, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 47
+      y: 473
+      width: 27
+      height: 51
+    spriteID: 59524239a04956f4089b94c07ab25c85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 47, y: 473}
+  - name: PlayerCombatAnimations_Frame_110
+    originalName: 
+    pivot: {x: 0.33333337, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 172
+      width: 24
+      height: 52
+    spriteID: 11d3c11589d5ee94baa0aec84357b8f5
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 172}
+  - name: PlayerCombatAnimations_Frame_111
+    originalName: 
+    pivot: {x: 0.27272728, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 686
+      width: 33
+      height: 40
+    spriteID: a6f741fa63c61ad408019081a781e271
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 686}
+  - name: PlayerCombatAnimations_Frame_112
+    originalName: 
+    pivot: {x: 0.34482756, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 528
+      width: 29
+      height: 40
+    spriteID: 902931b984aac834a814107d3b212348
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 528}
+  - name: PlayerCombatAnimations_Frame_113
+    originalName: 
+    pivot: {x: 0.27272728, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 734
+      width: 33
+      height: 40
+    spriteID: cbbc2a70064e6af41bbda990b01e3428
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 734}
+  - name: PlayerCombatAnimations_Frame_114
+    originalName: 
+    pivot: {x: 0.34375003, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 881
+      width: 32
+      height: 40
+    spriteID: b1d23343d224acb438283293b3926282
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 881}
+  - name: PlayerCombatAnimations_Frame_115
+    originalName: 
+    pivot: {x: 0.27272728, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 782
+      width: 33
+      height: 40
+    spriteID: e501717c55651dc4fa18dcd09c76ad31
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 782}
+  - name: PlayerCombatAnimations_Frame_116
+    originalName: 
+    pivot: {x: 0.31249997, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 929
+      width: 32
+      height: 40
+    spriteID: cd75535c92e027647b937ea47079084e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 929}
+  - name: PlayerCombatAnimations_Frame_117
+    originalName: 
+    pivot: {x: 0.42857143, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 170
+      y: 835
+      width: 28
+      height: 40
+    spriteID: ae0dfb963b4999a41946489312233776
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 170, y: 835}
+  - name: PlayerCombatAnimations_Frame_118
+    originalName: 
+    pivot: {x: 0.2830189, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 371
+      width: 53
+      height: 41
+    spriteID: cc8b7090a7b9a4e4d81263771eb8250c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 371}
+  - name: PlayerCombatAnimations_Frame_119
+    originalName: 
+    pivot: {x: 0.2, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 82
+      y: 4
+      width: 80
+      height: 41
+    spriteID: 20a8faa3b8645e14896894b565e7c909
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 82, y: 4}
+  - name: PlayerCombatAnimations_Frame_120
+    originalName: 
+    pivot: {x: 0.3, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 914
+      width: 40
+      height: 41
+    spriteID: 6cc3612b4919929478cd40730a7821ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 914}
+  - name: PlayerCombatAnimations_Frame_121
+    originalName: 
+    pivot: {x: 0.35000002, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 963
+      width: 40
+      height: 41
+    spriteID: 10e229a219402fd40a2b80fbbd9cc951
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 963}
+  - name: PlayerCombatAnimations_Frame_122
+    originalName: 
+    pivot: {x: 0.58333325, y: 0}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 255
+      y: 139
+      width: 12
+      height: 40
+    spriteID: cb718e4bcbc0b694cacaa5ec39f9f8ca
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 255, y: 139}
+  - name: PlayerCombatAnimations_Frame_123
+    originalName: 
+    pivot: {x: 0.34615386, y: -4.9999995}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 132
+      y: 995
+      width: 26
+      height: 5
+    spriteID: 268efab860b1f7844818552cf1b24106
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 132, y: 995}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: 1435776672
+    name: PlayerCombatAnimations
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: PlayerCombatAnimations_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 32
+        y: 0
+        width: 27
+        height: 45
+      spriteId: e9e21ffcd9211d2468cef85b4ee6ead1
+    - name: PlayerCombatAnimations_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 33
+        y: 0
+        width: 25
+        height: 46
+      spriteId: 42caee6914902304db8cfc53aadd121d
+    - name: PlayerCombatAnimations_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 25
+        y: 0
+        width: 64
+        height: 52
+      spriteId: cd029e3ccfe8e7645bbce917512cdae0
+    - name: PlayerCombatAnimations_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 30
+        y: 0
+        width: 32
+        height: 33
+      spriteId: 7408f192cfe7e8d4b84928f5c121fbbe
+    - name: PlayerCombatAnimations_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 39
+        y: 0
+        width: 26
+        height: 34
+      spriteId: 84f53d864113d0544833975df92ac6a0
+    - name: PlayerCombatAnimations_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 41
+        y: 0
+        width: 29
+        height: 34
+      spriteId: 740ec87be8019dd45976fa53ac84cea0
+    - name: PlayerCombatAnimations_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 45
+        y: 0
+        width: 19
+        height: 37
+      spriteId: ee02c840a440a7c45847b8859a254938
+    - name: PlayerCombatAnimations_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 45
+        y: 0
+        width: 20
+        height: 39
+      spriteId: 05b1c6d0079905a4d91be9136bc49688
+    - name: PlayerCombatAnimations_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 36
+        y: 0
+        width: 18
+        height: 41
+      spriteId: 28fbb02fcf8832a4ebbd332ddd807df5
+    - name: PlayerCombatAnimations_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 29
+        y: 0
+        width: 24
+        height: 51
+      spriteId: 13f1287a3af89a54a8a4ab8898060a81
+    - name: PlayerCombatAnimations_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 24
+        y: 0
+        width: 29
+        height: 48
+      spriteId: dc54b63e6c438284683da1361e87ef22
+    - name: PlayerCombatAnimations_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 13
+        y: 0
+        width: 70
+        height: 57
+      spriteId: e151bbd282976a24c8f35e24f5d03248
+    - name: PlayerCombatAnimations_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 38
+        y: 0
+        width: 35
+        height: 57
+      spriteId: b242e585d9ce1f74d812e3cc81927758
+    - name: PlayerCombatAnimations_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 38
+        y: 0
+        width: 22
+        height: 56
+      spriteId: d7232e6cabdd469488be2112a1cb2f00
+    - name: PlayerCombatAnimations_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 38
+        y: 0
+        width: 33
+        height: 35
+      spriteId: d3792365cdcaa124bbc4df7ce70b54c6
+    - name: PlayerCombatAnimations_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 38
+        y: 0
+        width: 50
+        height: 34
+      spriteId: 897383661176a684992409d3793fcf2b
+    - name: PlayerCombatAnimations_Frame_16
+      frameIndex: 16
+      cellRect:
+        x: 37
+        y: 0
+        width: 49
+        height: 61
+      spriteId: 8eb4f2708e3fec6448e7199cf72cb6ce
+    - name: PlayerCombatAnimations_Frame_17
+      frameIndex: 17
+      cellRect:
+        x: 33
+        y: 0
+        width: 27
+        height: 59
+      spriteId: 8aece0e7d1830f943879fd053271c03a
+    - name: PlayerCombatAnimations_Frame_18
+      frameIndex: 18
+      cellRect:
+        x: 30
+        y: 0
+        width: 30
+        height: 53
+      spriteId: 4476ece0082d2c54aa90aabe35deaebe
+    - name: PlayerCombatAnimations_Frame_19
+      frameIndex: 19
+      cellRect:
+        x: 46
+        y: 0
+        width: 47
+        height: 31
+      spriteId: e59e8554a519eb246be9303384825862
+    - name: PlayerCombatAnimations_Frame_20
+      frameIndex: 20
+      cellRect:
+        x: 45
+        y: 0
+        width: 44
+        height: 32
+      spriteId: e499a5e2b1403c748a4579c6f12b0a17
+    - name: PlayerCombatAnimations_Frame_21
+      frameIndex: 21
+      cellRect:
+        x: 45
+        y: 0
+        width: 37
+        height: 32
+      spriteId: e4b707b68b3370246a5b5ec60eb7ddce
+    - name: PlayerCombatAnimations_Frame_22
+      frameIndex: 22
+      cellRect:
+        x: 43
+        y: 0
+        width: 35
+        height: 32
+      spriteId: 5eae3c7dbef58304d8b93a85a13bf5cc
+    - name: PlayerCombatAnimations_Frame_23
+      frameIndex: 23
+      cellRect:
+        x: 30
+        y: 0
+        width: 31
+        height: 37
+      spriteId: 704b12b665c1163408180f7c7d2d535f
+    - name: PlayerCombatAnimations_Frame_24
+      frameIndex: 24
+      cellRect:
+        x: 36
+        y: 0
+        width: 27
+        height: 42
+      spriteId: 58da9c7b29d396647ac4eb7bd81efa94
+    - name: PlayerCombatAnimations_Frame_25
+      frameIndex: 25
+      cellRect:
+        x: 40
+        y: 0
+        width: 33
+        height: 38
+      spriteId: 3bf8e3afa3ef3a84b8b6690add2fd5f6
+    - name: PlayerCombatAnimations_Frame_26
+      frameIndex: 26
+      cellRect:
+        x: 15
+        y: 0
+        width: 70
+        height: 35
+      spriteId: 7323cc6afd350884a80dcb88115f1ad6
+    - name: PlayerCombatAnimations_Frame_27
+      frameIndex: 27
+      cellRect:
+        x: 17
+        y: 0
+        width: 46
+        height: 34
+      spriteId: 735098c7c7d89934196535ee71ff742f
+    - name: PlayerCombatAnimations_Frame_28
+      frameIndex: 28
+      cellRect:
+        x: 27
+        y: 0
+        width: 44
+        height: 35
+      spriteId: 85003e7b1d9a2474f813b9aca21435f0
+    - name: PlayerCombatAnimations_Frame_29
+      frameIndex: 29
+      cellRect:
+        x: 36
+        y: 0
+        width: 39
+        height: 37
+      spriteId: 0d054f267ff113547960a133628cf97f
+    - name: PlayerCombatAnimations_Frame_30
+      frameIndex: 30
+      cellRect:
+        x: 48
+        y: 0
+        width: 25
+        height: 37
+      spriteId: 2728cd13ebcf96943a20072bb4b0ad1a
+    - name: PlayerCombatAnimations_Frame_31
+      frameIndex: 31
+      cellRect:
+        x: 49
+        y: 0
+        width: 24
+        height: 40
+      spriteId: d537f5ff9e7e1ec4c8894ed2fdfcac78
+    - name: PlayerCombatAnimations_Frame_32
+      frameIndex: 32
+      cellRect:
+        x: 41
+        y: 0
+        width: 20
+        height: 40
+      spriteId: 644b7d022caaa264194dd6590299d473
+    - name: PlayerCombatAnimations_Frame_33
+      frameIndex: 33
+      cellRect:
+        x: 41
+        y: 0
+        width: 21
+        height: 41
+      spriteId: 59ff18c3cd26bc449b31e453196c6850
+    - name: PlayerCombatAnimations_Frame_34
+      frameIndex: 34
+      cellRect:
+        x: 41
+        y: 0
+        width: 22
+        height: 41
+      spriteId: 44207720d3a1fb64a8cf1ab872909946
+    - name: PlayerCombatAnimations_Frame_35
+      frameIndex: 35
+      cellRect:
+        x: 41
+        y: 0
+        width: 24
+        height: 40
+      spriteId: f3dc12a96828a77439680e4644230c2b
+    - name: PlayerCombatAnimations_Frame_36
+      frameIndex: 36
+      cellRect:
+        x: 38
+        y: 1
+        width: 22
+        height: 39
+      spriteId: a77bbeeadf03f594ab3bf273f6c2b11c
+    - name: PlayerCombatAnimations_Frame_37
+      frameIndex: 37
+      cellRect:
+        x: 40
+        y: 2
+        width: 19
+        height: 38
+      spriteId: 63cb2a2ec4f16c248bbbff331e3260ba
+    - name: PlayerCombatAnimations_Frame_38
+      frameIndex: 38
+      cellRect:
+        x: 31
+        y: 4
+        width: 29
+        height: 34
+      spriteId: 3201848cb9f0ad945b706a71387b7aa5
+    - name: PlayerCombatAnimations_Frame_39
+      frameIndex: 39
+      cellRect:
+        x: 29
+        y: 0
+        width: 39
+        height: 42
+      spriteId: 07a06029fde63f945bc75f995f719425
+    - name: PlayerCombatAnimations_Frame_40
+      frameIndex: 40
+      cellRect:
+        x: 28
+        y: 0
+        width: 39
+        height: 29
+      spriteId: a0f15f9dfd6674842ab0419ee822d700
+    - name: PlayerCombatAnimations_Frame_41
+      frameIndex: 41
+      cellRect:
+        x: 28
+        y: 0
+        width: 39
+        height: 21
+      spriteId: 028082410ab928243a4b809fba4079de
+    - name: PlayerCombatAnimations_Frame_42
+      frameIndex: 42
+      cellRect:
+        x: 35
+        y: 0
+        width: 32
+        height: 22
+      spriteId: 0ddcda49b7345a7439694ff644c60e40
+    - name: PlayerCombatAnimations_Frame_43
+      frameIndex: 43
+      cellRect:
+        x: 38
+        y: 0
+        width: 29
+        height: 27
+      spriteId: 1d7f64ef5336a564da6cc0c277a2b8f1
+    - name: PlayerCombatAnimations_Frame_44
+      frameIndex: 44
+      cellRect:
+        x: 40
+        y: 0
+        width: 27
+        height: 35
+      spriteId: a0838cfd4bc7d084bbbda6f630f1a4ff
+    - name: PlayerCombatAnimations_Frame_45
+      frameIndex: 45
+      cellRect:
+        x: 37
+        y: 0
+        width: 30
+        height: 40
+      spriteId: 985e0270a73daa246888cdeac74ada47
+    - name: PlayerCombatAnimations_Frame_46
+      frameIndex: 46
+      cellRect:
+        x: 27
+        y: 0
+        width: 32
+        height: 36
+      spriteId: a3f801ef4903c89439f360331d293a5a
+    - name: PlayerCombatAnimations_Frame_47
+      frameIndex: 47
+      cellRect:
+        x: 30
+        y: 0
+        width: 45
+        height: 45
+      spriteId: 785479f304b0e8440b8852580d42bf6d
+    - name: PlayerCombatAnimations_Frame_48
+      frameIndex: 48
+      cellRect:
+        x: 30
+        y: 0
+        width: 44
+        height: 42
+      spriteId: 5b63f214060a528418803e2e91839b80
+    - name: PlayerCombatAnimations_Frame_49
+      frameIndex: 49
+      cellRect:
+        x: 30
+        y: 0
+        width: 44
+        height: 42
+      spriteId: dc9ae1bac81ac0044b9239be1e271529
+    - name: PlayerCombatAnimations_Frame_50
+      frameIndex: 50
+      cellRect:
+        x: 30
+        y: 0
+        width: 43
+        height: 42
+      spriteId: af13920a6283f144bb75ec761553ab6a
+    - name: PlayerCombatAnimations_Frame_51
+      frameIndex: 51
+      cellRect:
+        x: 27
+        y: 0
+        width: 42
+        height: 38
+      spriteId: f6761d05ddaca0a4a95bea3c74b0b672
+    - name: PlayerCombatAnimations_Frame_52
+      frameIndex: 52
+      cellRect:
+        x: 29
+        y: 1
+        width: 33
+        height: 40
+      spriteId: 8337509ece24b2c40ae80dd1e76e5c25
+    - name: PlayerCombatAnimations_Frame_53
+      frameIndex: 53
+      cellRect:
+        x: 31
+        y: 0
+        width: 33
+        height: 40
+      spriteId: b1c9c7e4fccbdc04d86de27bc3ad145f
+    - name: PlayerCombatAnimations_Frame_54
+      frameIndex: 54
+      cellRect:
+        x: 37
+        y: 0
+        width: 21
+        height: 39
+      spriteId: 6aebf911a8145d540ba35565cedcea09
+    - name: PlayerCombatAnimations_Frame_55
+      frameIndex: 55
+      cellRect:
+        x: 36
+        y: 0
+        width: 26
+        height: 39
+      spriteId: 36536d944ba2584449be8f4785301230
+    - name: PlayerCombatAnimations_Frame_56
+      frameIndex: 56
+      cellRect:
+        x: 42
+        y: 0
+        width: 22
+        height: 39
+      spriteId: 077a19e11f3c7d74f844e29e0816bb56
+    - name: PlayerCombatAnimations_Frame_57
+      frameIndex: 57
+      cellRect:
+        x: 35
+        y: 0
+        width: 28
+        height: 36
+      spriteId: f7538aeaf20c5ac4f84958509b1f07b7
+    - name: PlayerCombatAnimations_Frame_58
+      frameIndex: 58
+      cellRect:
+        x: 25
+        y: 0
+        width: 50
+        height: 35
+      spriteId: 954092fb3069e174e8b35e88c1dc1918
+    - name: PlayerCombatAnimations_Frame_59
+      frameIndex: 59
+      cellRect:
+        x: 26
+        y: 0
+        width: 50
+        height: 35
+      spriteId: 00aa1292d975ad64f8d260923ea54bd9
+    - name: PlayerCombatAnimations_Frame_60
+      frameIndex: 60
+      cellRect:
+        x: 25
+        y: 0
+        width: 50
+        height: 35
+      spriteId: 936cc8250ed499040a62e0460232b8b9
+    - name: PlayerCombatAnimations_Frame_61
+      frameIndex: 61
+      cellRect:
+        x: 38
+        y: 0
+        width: 23
+        height: 35
+      spriteId: 48af8f77adafb8b4298fd9f1cbf12815
+    - name: PlayerCombatAnimations_Frame_62
+      frameIndex: 62
+      cellRect:
+        x: 43
+        y: 0
+        width: 15
+        height: 39
+      spriteId: 7126d666d20c68f488a74d272657f9be
+    - name: PlayerCombatAnimations_Frame_63
+      frameIndex: 63
+      cellRect:
+        x: 41
+        y: 0
+        width: 21
+        height: 39
+      spriteId: b26a633520d5cac41905c374dcf3b9c8
+    - name: PlayerCombatAnimations_Frame_64
+      frameIndex: 64
+      cellRect:
+        x: 38
+        y: 0
+        width: 19
+        height: 41
+      spriteId: 30f1fa0550378b64f91a432d89a98a83
+    - name: PlayerCombatAnimations_Frame_65
+      frameIndex: 65
+      cellRect:
+        x: 38
+        y: 0
+        width: 22
+        height: 40
+      spriteId: c630f9b821637b94e9a30c45bb0f8131
+    - name: PlayerCombatAnimations_Frame_66
+      frameIndex: 66
+      cellRect:
+        x: 24
+        y: 0
+        width: 53
+        height: 58
+      spriteId: 07d37afa5006d634b86fc16635853832
+    - name: PlayerCombatAnimations_Frame_67
+      frameIndex: 67
+      cellRect:
+        x: 36
+        y: 0
+        width: 44
+        height: 56
+      spriteId: b335ddc9fe13fed4384d122b57af1ff1
+    - name: PlayerCombatAnimations_Frame_68
+      frameIndex: 68
+      cellRect:
+        x: 41
+        y: 0
+        width: 30
+        height: 46
+      spriteId: 4b52f10cacb03a54e9724c8b42b47a38
+    - name: PlayerCombatAnimations_Frame_69
+      frameIndex: 69
+      cellRect:
+        x: 45
+        y: 0
+        width: 17
+        height: 35
+      spriteId: 1c5ba48467c49d549bf074aa6ac1b971
+    - name: PlayerCombatAnimations_Frame_70
+      frameIndex: 70
+      cellRect:
+        x: 42
+        y: 0
+        width: 20
+        height: 33
+      spriteId: 045761e7ed4a9bf4b89c1f8dc744cd24
+    - name: PlayerCombatAnimations_Frame_71
+      frameIndex: 71
+      cellRect:
+        x: 35
+        y: 0
+        width: 26
+        height: 35
+      spriteId: bdf70711c72fb604f9a5be3146182da1
+    - name: PlayerCombatAnimations_Frame_72
+      frameIndex: 72
+      cellRect:
+        x: 34
+        y: 0
+        width: 26
+        height: 39
+      spriteId: bed33e977b2bfbe40ba6c3a6c40067a4
+    - name: PlayerCombatAnimations_Frame_73
+      frameIndex: 73
+      cellRect:
+        x: 32
+        y: 0
+        width: 29
+        height: 40
+      spriteId: 4543ad4bc65f9e645863c8e49e8ba0db
+    - name: PlayerCombatAnimations_Frame_74
+      frameIndex: 74
+      cellRect:
+        x: 38
+        y: 0
+        width: 44
+        height: 35
+      spriteId: 4e236670ff14ee04cad3bc53f682948e
+    - name: PlayerCombatAnimations_Frame_75
+      frameIndex: 75
+      cellRect:
+        x: 40
+        y: 0
+        width: 22
+        height: 37
+      spriteId: 077e7eda05b37994e946af66193631e6
+    - name: PlayerCombatAnimations_Frame_76
+      frameIndex: 76
+      cellRect:
+        x: 41
+        y: 0
+        width: 21
+        height: 37
+      spriteId: 0f7903e9fe52fc149a6751502130b4be
+    - name: PlayerCombatAnimations_Frame_77
+      frameIndex: 77
+      cellRect:
+        x: 42
+        y: 0
+        width: 20
+        height: 38
+      spriteId: 59e7a65e6096afa45b2b50be0377b24f
+    - name: PlayerCombatAnimations_Frame_78
+      frameIndex: 78
+      cellRect:
+        x: 31
+        y: 0
+        width: 26
+        height: 39
+      spriteId: a68a7e078d6525d469144dd795dbbe12
+    - name: PlayerCombatAnimations_Frame_79
+      frameIndex: 79
+      cellRect:
+        x: 37
+        y: 0
+        width: 33
+        height: 40
+      spriteId: b4a6432b45974404db648c5ba36dd102
+    - name: PlayerCombatAnimations_Frame_80
+      frameIndex: 80
+      cellRect:
+        x: 37
+        y: 0
+        width: 34
+        height: 39
+      spriteId: 4f694881ad1f53749ad85d7828797edf
+    - name: PlayerCombatAnimations_Frame_81
+      frameIndex: 81
+      cellRect:
+        x: 37
+        y: 0
+        width: 19
+        height: 35
+      spriteId: eeed8228374a38b42a24ca716627b868
+    - name: PlayerCombatAnimations_Frame_82
+      frameIndex: 82
+      cellRect:
+        x: 30
+        y: 0
+        width: 23
+        height: 40
+      spriteId: 61c3389db1c30cd438571f72ccf1bc20
+    - name: PlayerCombatAnimations_Frame_83
+      frameIndex: 83
+      cellRect:
+        x: 32
+        y: 0
+        width: 21
+        height: 47
+      spriteId: cb8a62b840f3e33438f06266b5a5ebb2
+    - name: PlayerCombatAnimations_Frame_84
+      frameIndex: 84
+      cellRect:
+        x: 31
+        y: 0
+        width: 36
+        height: 47
+      spriteId: 276dda268a56185489e662d83da49fd2
+    - name: PlayerCombatAnimations_Frame_85
+      frameIndex: 85
+      cellRect:
+        x: 36
+        y: 0
+        width: 30
+        height: 47
+      spriteId: 6edff6bd1e4935d47b7ea650ffac5892
+    - name: PlayerCombatAnimations_Frame_86
+      frameIndex: 86
+      cellRect:
+        x: 36
+        y: 0
+        width: 30
+        height: 48
+      spriteId: b45380cfe0c273b4ab79458ca19ea515
+    - name: PlayerCombatAnimations_Frame_87
+      frameIndex: 87
+      cellRect:
+        x: 38
+        y: 0
+        width: 24
+        height: 40
+      spriteId: 247c0e47cbb27f947b1d8dd69cdd9193
+    - name: PlayerCombatAnimations_Frame_88
+      frameIndex: 88
+      cellRect:
+        x: 40
+        y: 0
+        width: 18
+        height: 40
+      spriteId: ddb1ad74294f3084bbc7b6ebad35c3cb
+    - name: PlayerCombatAnimations_Frame_89
+      frameIndex: 89
+      cellRect:
+        x: 41
+        y: 0
+        width: 25
+        height: 40
+      spriteId: f8e359d5f6f76464db34f1eb68a2aaa8
+    - name: PlayerCombatAnimations_Frame_90
+      frameIndex: 90
+      cellRect:
+        x: 41
+        y: 0
+        width: 14
+        height: 40
+      spriteId: 550e442254b2e3c44963e4a62785f37c
+    - name: PlayerCombatAnimations_Frame_91
+      frameIndex: 91
+      cellRect:
+        x: 44
+        y: 23
+        width: 22
+        height: 7
+      spriteId: 65777a9d2b2e319469953ecf0ca84cb7
+    - name: PlayerCombatAnimations_Frame_92
+      frameIndex: 92
+      cellRect:
+        x: 41
+        y: 0
+        width: 25
+        height: 40
+      spriteId: f98321fc5b3cb7c40b1de024a83cf1a7
+    - name: PlayerCombatAnimations_Frame_93
+      frameIndex: 93
+      cellRect:
+        x: 39
+        y: 0
+        width: 23
+        height: 40
+      spriteId: 612129f963bbade4387732de24d46b14
+    - name: PlayerCombatAnimations_Frame_94
+      frameIndex: 94
+      cellRect:
+        x: 37
+        y: 0
+        width: 19
+        height: 39
+      spriteId: b979073b9af205741a9e03f79eb86b8b
+    - name: PlayerCombatAnimations_Frame_95
+      frameIndex: 95
+      cellRect:
+        x: 37
+        y: 0
+        width: 22
+        height: 39
+      spriteId: a8d7d3517f1ce664d9cbdaa507bc1bca
+    - name: PlayerCombatAnimations_Frame_96
+      frameIndex: 96
+      cellRect:
+        x: 41
+        y: 0
+        width: 24
+        height: 39
+      spriteId: 8f001294c8025cd4db50b8ff8b67f529
+    - name: PlayerCombatAnimations_Frame_97
+      frameIndex: 97
+      cellRect:
+        x: 41
+        y: 0
+        width: 25
+        height: 40
+      spriteId: c1de84e5380b3d74c9efae28cdfc5f12
+    - name: PlayerCombatAnimations_Frame_98
+      frameIndex: 98
+      cellRect:
+        x: 41
+        y: 0
+        width: 23
+        height: 40
+      spriteId: 231c1de10b5f42c4b83157d2ee73f91b
+    - name: PlayerCombatAnimations_Frame_99
+      frameIndex: 99
+      cellRect:
+        x: 41
+        y: 0
+        width: 23
+        height: 40
+      spriteId: 1a9e8020a3e183248aff967e100cfdbf
+    - name: PlayerCombatAnimations_Frame_100
+      frameIndex: 100
+      cellRect:
+        x: 41
+        y: 0
+        width: 23
+        height: 40
+      spriteId: 73fd55d8de5a0fb4a9b151d3307867c2
+    - name: PlayerCombatAnimations_Frame_101
+      frameIndex: 101
+      cellRect:
+        x: 41
+        y: 0
+        width: 23
+        height: 40
+      spriteId: 4d5774177f334654287d47bbf0590064
+    - name: PlayerCombatAnimations_Frame_102
+      frameIndex: 102
+      cellRect:
+        x: 41
+        y: 0
+        width: 24
+        height: 39
+      spriteId: fa57e64214e606f43938a2d5fd47b634
+    - name: PlayerCombatAnimations_Frame_103
+      frameIndex: 103
+      cellRect:
+        x: 41
+        y: 0
+        width: 23
+        height: 37
+      spriteId: 902da3b008311e74083a0903e80bca62
+    - name: PlayerCombatAnimations_Frame_104
+      frameIndex: 104
+      cellRect:
+        x: 41
+        y: 0
+        width: 23
+        height: 39
+      spriteId: 3053553b80902d546b5bb487607725b3
+    - name: PlayerCombatAnimations_Frame_105
+      frameIndex: 105
+      cellRect:
+        x: 41
+        y: 0
+        width: 25
+        height: 40
+      spriteId: 7fd13f8e3315339468f134aa791a888e
+    - name: PlayerCombatAnimations_Frame_106
+      frameIndex: 106
+      cellRect:
+        x: 41
+        y: 0
+        width: 14
+        height: 40
+      spriteId: f5ca8c0740efb484fbfde6727879fccd
+    - name: PlayerCombatAnimations_Frame_107
+      frameIndex: 107
+      cellRect:
+        x: 37
+        y: 0
+        width: 31
+        height: 40
+      spriteId: b133c0712ea2aae48b76ad9526160ff4
+    - name: PlayerCombatAnimations_Frame_108
+      frameIndex: 108
+      cellRect:
+        x: 38
+        y: 0
+        width: 30
+        height: 43
+      spriteId: 0e75ed31e2c11394da451e4f194dcadb
+    - name: PlayerCombatAnimations_Frame_109
+      frameIndex: 109
+      cellRect:
+        x: 37
+        y: 0
+        width: 27
+        height: 51
+      spriteId: 59524239a04956f4089b94c07ab25c85
+    - name: PlayerCombatAnimations_Frame_110
+      frameIndex: 110
+      cellRect:
+        x: 40
+        y: 0
+        width: 24
+        height: 52
+      spriteId: 11d3c11589d5ee94baa0aec84357b8f5
+    - name: PlayerCombatAnimations_Frame_111
+      frameIndex: 111
+      cellRect:
+        x: 39
+        y: 0
+        width: 33
+        height: 40
+      spriteId: a6f741fa63c61ad408019081a781e271
+    - name: PlayerCombatAnimations_Frame_112
+      frameIndex: 112
+      cellRect:
+        x: 38
+        y: 0
+        width: 29
+        height: 40
+      spriteId: 902931b984aac834a814107d3b212348
+    - name: PlayerCombatAnimations_Frame_113
+      frameIndex: 113
+      cellRect:
+        x: 39
+        y: 0
+        width: 33
+        height: 40
+      spriteId: cbbc2a70064e6af41bbda990b01e3428
+    - name: PlayerCombatAnimations_Frame_114
+      frameIndex: 114
+      cellRect:
+        x: 37
+        y: 0
+        width: 32
+        height: 40
+      spriteId: b1d23343d224acb438283293b3926282
+    - name: PlayerCombatAnimations_Frame_115
+      frameIndex: 115
+      cellRect:
+        x: 39
+        y: 0
+        width: 33
+        height: 40
+      spriteId: e501717c55651dc4fa18dcd09c76ad31
+    - name: PlayerCombatAnimations_Frame_116
+      frameIndex: 116
+      cellRect:
+        x: 38
+        y: 0
+        width: 32
+        height: 40
+      spriteId: cd75535c92e027647b937ea47079084e
+    - name: PlayerCombatAnimations_Frame_117
+      frameIndex: 117
+      cellRect:
+        x: 36
+        y: 0
+        width: 28
+        height: 40
+      spriteId: ae0dfb963b4999a41946489312233776
+    - name: PlayerCombatAnimations_Frame_118
+      frameIndex: 118
+      cellRect:
+        x: 33
+        y: 0
+        width: 53
+        height: 41
+      spriteId: cc8b7090a7b9a4e4d81263771eb8250c
+    - name: PlayerCombatAnimations_Frame_119
+      frameIndex: 119
+      cellRect:
+        x: 32
+        y: 0
+        width: 80
+        height: 41
+      spriteId: 20a8faa3b8645e14896894b565e7c909
+    - name: PlayerCombatAnimations_Frame_120
+      frameIndex: 120
+      cellRect:
+        x: 36
+        y: 0
+        width: 40
+        height: 41
+      spriteId: 6cc3612b4919929478cd40730a7821ca
+    - name: PlayerCombatAnimations_Frame_121
+      frameIndex: 121
+      cellRect:
+        x: 34
+        y: 0
+        width: 40
+        height: 41
+      spriteId: 10e229a219402fd40a2b80fbbd9cc951
+    - name: PlayerCombatAnimations_Frame_122
+      frameIndex: 122
+      cellRect:
+        x: 41
+        y: 0
+        width: 12
+        height: 40
+      spriteId: cb718e4bcbc0b694cacaa5ec39f9f8ca
+    - name: PlayerCombatAnimations_Frame_123
+      frameIndex: 123
+      cellRect:
+        x: 39
+        y: 25
+        width: 26
+        height: 5
+      spriteId: 268efab860b1f7844818552cf1b24106
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  generatePhysicsShape: 0
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 96, y: 84}
